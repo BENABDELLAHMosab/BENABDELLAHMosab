@@ -168,6 +168,6 @@ Technologies utilisées dans mes stages et projets, y compris mes travaux univer
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=BENABDELLAHMosab&amp;label=Vues+du+profil&amp;color=0F766E&amp;style=flat-square" alt="Compteur de vues du profil" />
+<img src="https://komarev.com/ghpvc/?username=BENABDELLAHMosab&amp;label=Vues&amp;color=0F766E&amp;style=flat-square" alt="Compteur de vues du profil" />
 
 </div>
